@@ -78,4 +78,4 @@ if __name__ == "__main__":
         print(f" [x] Sent {message2}")
         print(f" [x] Sent {message3}")
         # sleep for 30 seconds
-        time.sleep(1)
+        time.sleep(30)

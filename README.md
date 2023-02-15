@@ -53,7 +53,5 @@ See http://localhost:15672/Links to an external site.
 
 ## Screenshot
 
-See a running example with at least 3 concurrent process windows here:
-
 Screenshot of terminals
 ![Screenshot](Screenshot_producer.png)
